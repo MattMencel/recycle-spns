@@ -1,0 +1,13 @@
+{
+  "SPNs": [{
+      "subscription_id": "SUBSCRIPTION_GUID1",
+      "name": "TRF-DEV",
+      "keyvault": "DEVKeyVault"
+    },
+    {
+      "subscription_id": "SUBSCRIPTION_GUID2",
+      "name": "TRF-TEST",
+      "keyvault": "TESTKeyVault"
+    }
+  ]
+}
